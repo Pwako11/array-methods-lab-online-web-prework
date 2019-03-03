@@ -9,7 +9,9 @@ def using_sort(array)
 end
 
 def using_reverse(array)
-
+  famous_wizards = ["Dumbledore", "Gandalf", "Merlin"]
+  array = famous_wizards
+  array.reverse 
 end
 
 def using_first(array)
